@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+/vertexinc-tomcat-error-valve.iml
+/.idea/
